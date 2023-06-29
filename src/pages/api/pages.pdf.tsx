@@ -4,7 +4,7 @@ import {
   View,
   Text,
   Document,
-} from "@react-pdf/renderer";
+} from "@joshuajaco/react-pdf-renderer-bundled";
 import { NextApiRequest, NextApiResponse } from "next";
 
 export const dynamic = "force-dynamic";
